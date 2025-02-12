@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatema Menjarwala</h1>
-<h3 align="center">🚀 Frontend Developer | React | JavaScript | Redux </h3>
+<h3 align="center">🚀 Frontend Developer  | JavaScript | React | Redux </h3>
 
 💡 Passionate **Frontend Developer** focused on creating **dynamic, user-friendly web applications** 🚀  
 🎯 Currently mastering **React, Redux, and Backend Development**  
@@ -36,7 +36,6 @@
 
 ### **📊 GitHub Stats:**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fatema2412&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatema2412&theme=radical" />
 </p>
 
@@ -44,7 +43,6 @@
 
 ### 🎨 **Fun Facts:**  
 - 🍲 Aspiring **Celebrity Chef** who loves experimenting with recipes  
-- 🎮 Enjoys **gaming & UI/UX design** in free time  
 - ✨ Learning **Backend & Full-Stack Development**  
 
 ---
