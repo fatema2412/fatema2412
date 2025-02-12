@@ -1,16 +1,52 @@
 <h1 align="center">Hi 👋, I'm Fatema Menjarwala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Frontend Developer | React | JavaScript | Redux </h3>
 
-- 🌱 I’m currently learning **Mastering React ,Redux**
+💡 Passionate **Frontend Developer** focused on creating **dynamic, user-friendly web applications** 🚀  
+🎯 Currently mastering **React, Redux, and Backend Development**  
+📍 Based in **Jamnagar, India**  
 
-- 👨‍💻 All of my projects are available at [https://fatema2412.github.io/Protfolio/](https://fatema2412.github.io/Protfolio/)
+---
 
-- 📫 How to reach me **fatemamenjarwala1623@gmail.com**
+### **🌱 What I'm currently working on:**
+- 🎬 A **Movie Database Web App** with dynamic search and filtering  
+- 🛒 A **Product Management System** with **CRUD, Wishlist, & Add to Cart**  
+- 🎯 Improving my **backend skills** using Node.js & Express  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatema menjarwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatema menjarwala" height="30" width="40" /></a>
+---
+
+### **🔗 Connect with me:**
+📫 **Reach me at:**  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatemamenjarwala1623@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatema-menjarwala)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatema2412)
+
+🚀 **Check out my Portfolio:**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://fatema2412.github.io/Protfolio/)
+
+---
+
+### **💻 Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+
+---
+
+### **📊 GitHub Stats:**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fatema2412&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatema2412&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </p>
+---
+
+### 🎨 **Fun Facts:**  
+- 🍲 Aspiring **Celebrity Chef** who loves experimenting with recipes  
+- 🎮 Enjoys **gaming & UI/UX design** in free time  
+- ✨ Learning **Backend & Full-Stack Development**  
+
+---
+
+🔥 **Thanks for visiting!** Keep coding and stay awesome! 🚀  
