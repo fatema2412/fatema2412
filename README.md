@@ -2,9 +2,14 @@
   <img src="https://raw.githubusercontent.com/fatema2412/fatema2412/refs/heads/main/BannerImag.png" alt="GitHub Cover Image" width="100%">
 </p>
 
+# 👋 Hi, I'm Fatema Menjarwala!  
 
-<h1 align="center">Hi 👋, I'm Fatema Menjarwala</h1>
-<h3 align="center">🚀 Frontend Developer  | JavaScript | React | Redux </h3>
+🌟 **Aspiring Web Developer | Passionate Learner | Problem Solver**  
+
+Welcome to my GitHub profile! I'm a beginner web developer exploring front-end and back-end technologies. I love building projects, learning new skills, and contributing to the developer community.  
+
+
+
 
 💡 Passionate **Frontend Developer** focused on creating **dynamic, user-friendly web applications** 🚀  
 🎯 Currently mastering **React, Redux, and Backend Development**  
@@ -12,10 +17,15 @@
 
 ---
 
-### **🌱 What I'm currently working on:**
-- 🎬 A **Movie Database Web App** with dynamic search and filtering  
-- 🛒 A **Product Management System** with **CRUD, Wishlist, & Add to Cart**  
-- 🎯 Improving my **backend skills** using Node.js & Express  
+## 📌 My Projects  
+
+🔹 **[Bluefy Clone](https://spectacular-tartufo-6062af.netlify.app/)**  
+💡 An e-commerce platform with product sorting & filtering features.  
+🔗 [GitHub Repo](https://github.com/fatema2412/bluefy-clone)  
+
+🔹 **[QualityCart](https://fatema2412.github.io/QualityCart-/)**  
+💡 A Costco-inspired web application with stock management functionality.  
+🔗 [GitHub Repo](https://github.com/fatema2412/QualityCart-)  
 
 ---
 
