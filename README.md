@@ -37,6 +37,10 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 
+## **Development Environment** 🛠️
+- **Code Editor**: VS Code
+- **Version Control**: GitHub
+
 ---
 
 ### **📊 GitHub Stats:**
