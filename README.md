@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="GitHub Cover Image" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Fatema Menjarwala</h1>
 <h3 align="center">🚀 Frontend Developer  | JavaScript | React | Redux </h3>
 
