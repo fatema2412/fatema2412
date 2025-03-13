@@ -37,7 +37,8 @@ Welcome to my GitHub profile! I'm a beginner web developer exploring front-end a
 
 🚀 **Check out my Portfolio and Resume:**  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://my-website-79f43.web.app/)
-[📄 My Resume](https://drive.google.com/file/d/1GPrhwNFOpkRr_1a4zn51w5y72sYhomsS/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge)](https://drive.google.com/file/d/1GPrhwNFOpkRr_1a4zn51w5y72sYhomsS/view?usp=sharing)
+
 
 
 
