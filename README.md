@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a beginner web developer exploring front-end a
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatema2412)
 
 🚀 **Check out my Portfolio:**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://fatema2412.github.io/Protfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://my-website-79f43.web.app/)
 
 ---
 
