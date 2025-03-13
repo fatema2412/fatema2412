@@ -35,8 +35,11 @@ Welcome to my GitHub profile! I'm a beginner web developer exploring front-end a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatema-menjarwala-bb087b2b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatema2412)
 
-🚀 **Check out my Portfolio:**  
+🚀 **Check out my Portfolio and Resume:**  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://my-website-79f43.web.app/)
+[📄 My Resume](https://drive.google.com/file/d/1GPrhwNFOpkRr_1a4zn51w5y72sYhomsS/view?usp=sharing)
+
+
 
 ---
 
